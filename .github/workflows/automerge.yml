@@ -19,7 +19,7 @@ env:
   MASTER_REPO: https://github.com/markalroberts/AutoMergeTest.git
 
   # replace "master" with your master branch name
-  MASTER_BRANCH: master
+  MASTER_BRANCH: main
 
 jobs:
   merge:
